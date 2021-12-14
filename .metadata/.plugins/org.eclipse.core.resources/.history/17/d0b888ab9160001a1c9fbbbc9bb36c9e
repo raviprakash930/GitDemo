@@ -1,0 +1,22 @@
+import java.util.HashSet;
+
+public class HashSetDemo {
+
+	public static void main(String[] args) {
+		
+		HashSet h=new HashSet();
+		
+		h.add("Ravi");
+        h.add("janu");
+        h.add(1);
+        h.add(2);
+        System.out.println("Hash set colletion having object "+h);
+        System.out.println(h.addAll(h));
+        System.out.println("adding all objects"+ h);
+        System.out.println(h.add("Ravi"));//no complie or run time error
+        
+       System.out.println();
+        
+	}
+
+}

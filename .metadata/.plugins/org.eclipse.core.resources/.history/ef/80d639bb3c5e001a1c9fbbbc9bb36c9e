@@ -1,0 +1,20 @@
+
+public class ShadowDogApp {
+
+	private String breed;
+	private String color;
+
+	void setdata(String breed, String color) {
+		breed = breed;
+		color = color;
+	}
+
+	String getbreed() {
+		return breed;
+	}
+
+	String getcolor() {
+		return color;
+	}
+
+}

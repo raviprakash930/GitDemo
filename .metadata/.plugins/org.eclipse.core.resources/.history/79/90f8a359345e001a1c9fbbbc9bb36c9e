@@ -1,0 +1,9 @@
+/*Encapsulation is process of giving accessed control to the most important data
+  Encapsulation = Data hiding + Abstraction */
+public class InheritanceDemo {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

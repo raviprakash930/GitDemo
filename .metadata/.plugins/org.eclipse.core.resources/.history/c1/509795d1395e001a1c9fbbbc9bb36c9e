@@ -1,0 +1,14 @@
+
+public class EncapDefault {
+	
+	private int pages;
+	
+	void setdata(int x)
+	{
+		pages= x;
+	}
+   int getdata()
+   {
+	   return pages;
+   }
+}

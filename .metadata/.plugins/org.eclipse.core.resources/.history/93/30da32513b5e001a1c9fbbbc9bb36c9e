@@ -1,0 +1,15 @@
+
+public class ShadowDogdemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ShadowDogApp d= new ShadowDogApp();
+		d.setdata("Dabur", "saffron");
+		System.out.println("Dog breed and Colur are below");
+		System.out.println("Breed"+d.getbreed());
+		System.out.println("color"+d.getcolor());
+
+	}
+
+}

@@ -1,0 +1,13 @@
+
+public class Employee {
+	String emp;
+	int id;
+	Employee(String emp,int id)
+	{
+		this.emp=emp;
+		this.id=id;
+	}
+	
+	
+
+}

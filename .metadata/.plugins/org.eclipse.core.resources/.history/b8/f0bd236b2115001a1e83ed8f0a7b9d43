@@ -1,0 +1,11 @@
+
+public class Constructparent 
+{
+	int a;
+	String b;
+	float c;
+Constructparent()
+{
+	super();
+}
+}
